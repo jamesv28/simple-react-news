@@ -1,9 +1,9 @@
 import "./App.css";
-
+import News from "./components/news/news.component";
 function App() {
   return (
     <>
-      <div>hello</div>
+      <News />
     </>
   );
 }
